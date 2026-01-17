@@ -1,5 +1,5 @@
-# My-Contact-
-Android Fundamentals: Practical Learning Project
+# Android Fundamentals: Practical Learning Project
+
 A hands-on repository designed to demonstrate the core pillars of Android development. This project serves as a reference for implementing UI components, managing application flow, and handling user interaction.
 
 🚀 Learning Objectives
