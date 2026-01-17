@@ -35,7 +35,6 @@ Data Passing: Demonstrates how to send strings or objects from one component to 
 Interactive Elements: Buttons, EditTexts, and Lists with custom Listeners.
 
 📂 Project Structure
-Plaintext
 
 ├── app
 │   └── src
@@ -47,12 +46,13 @@ Plaintext
 │           └── res
 │               ├── layout       # XML UI definitions
 │               └── values       # Strings, colors, and styles
+
+
 ⚙️ Getting Started
 Clone the repo:
-
 Bash
-
 git clone https://github.com/xPamii/My-Contact.git
+
 Open in Android Studio: File > Open > Select the project folder.
 
 Build & Run: Select an emulator or physical device and click the Run button (green play icon).
