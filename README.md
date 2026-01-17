@@ -1,5 +1,6 @@
-# Android Fundamentals: Practical Learning Project
+# My-Contact: Android Fundamentals
 
+📱 A Practical Learning Project
 A hands-on repository designed to demonstrate the core pillars of Android development. This project serves as a reference for implementing UI components, managing application flow, and handling user interaction.
 
 🚀 Learning Objectives
@@ -24,7 +25,7 @@ Design: Material Design Components
 
 Build System: Gradle
 
-📱 Features
+✨ Features
 Multi-Screen Navigation: Uses Intents to transition between a Login/Home activity and detail screens.
 
 Dynamic UI: Uses Fragments to swap content within a single activity.
@@ -59,5 +60,6 @@ Build & Run: Select an emulator or physical device and click the Run button (gre
 ✍️ Author
 Pamith Herath
 
-GitHub : https://github.com/xPamii
-LinkedIn : www.linkedin.com/in/pamithherath
+GitHub: @xPamii
+
+LinkedIn: www.linkedin.com/in/pamithherath
